@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohammadParsaYahyazadeh
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning ML,DL,CV,NLP
+- 🌱 I’m currently learning ML,DL,CV,(NLP with transformers)
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me parsayahyazadeh1384@gmail.com
 
