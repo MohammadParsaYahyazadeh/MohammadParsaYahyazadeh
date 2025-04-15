@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ML,DL,CV,NLP
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me parsayahyazadeh1384@gmail.com
+- phone number:09194846584
 
 <!---
 MohammadParsaYahyazadeh/MohammadParsaYahyazadeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
