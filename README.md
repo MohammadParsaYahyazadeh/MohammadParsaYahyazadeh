@@ -14,7 +14,7 @@ Domains: Machine Learning, Deep Learning, NLP, Recommender Systems, Computer Vis
 
 Tech: MLOps (Tensorboard, Weights & Biases), ONNX, OpenCV
 
-Frameworks: Transformers (ViT, BERT), U-Net, YOLO
+Frameworks: Transformers (ViT, BERT), U-Net, YOLO, Rag Systems
 
 Languages: English (B2 Reading, Writing, Listening, Speaking)
 
@@ -46,7 +46,7 @@ Here are some of my most impactful AI projects:
 🔗 Let's Connect!
 📧 Email: parsayahyazadeh1384@gmail.com
 phone number:09194846584
-💼 LinkedIn
+💼 LinkedIn:www.linkedin.com/in/mohammad-parsa-yahyazadeh2005
 
 🌐 GitHub
 
