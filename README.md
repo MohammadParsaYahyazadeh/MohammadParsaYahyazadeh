@@ -1,3 +1,15 @@
+## 📊 GitHub Stats
+
+![Mohammad Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadParsaYahyazadeh&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadParsaYahyazadeh&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MohammadParsaYahyazadeh&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=MohammadParsaYahyazadeh&color=blue)
+
+
+
 👋 Hi, I'm Mohammad Parsa Yahyazadeh
 🎓 AI Developer | Computer Engineering
 🔭 Passionate about building intelligent systems that learn, adapt, and inspire.
