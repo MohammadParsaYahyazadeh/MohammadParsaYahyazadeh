@@ -1,7 +1,3 @@
-### 🐍 Contribution Graph
-
-![snake gif](https://github.com/MohammadParsaYahyazadeh/MohammadParsaYahyazadeh/blob/output/github-contribution-grid-snake.svg)
-
 <!-- Profile README for Mohammad Parsa Yahyazadeh -->
 
 <h1 align="center">Hi 👋, I'm Mohammad Parsa Yahyazadeh</h1>
