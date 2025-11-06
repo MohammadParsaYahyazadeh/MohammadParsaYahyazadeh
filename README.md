@@ -36,11 +36,11 @@
 
 ---
 
-### 🛠️ Languages & Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,keras,kaggle,matplotlib,numpy,colab,git,github,vscode,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,keras,kaggle,matplotlib,numpy,git,github,vscode,linux&perline=6" /><br>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
+
 
 
 ---
