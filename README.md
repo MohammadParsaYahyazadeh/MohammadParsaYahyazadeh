@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-blue?style=for-the-badge&logo=clockify&logoColor=white" />
   <img src="https://img.shields.io/badge/Image%20Classification-yellow?style=for-the-badge&logo=googlephotos&logoColor=white" />
   <img src="https://img.shields.io/badge/Image%20Segmentation-darkred?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/پردازش%20تصویر%20(OpenCV)-gray?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow%20%26%20Keras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/MLOps%20(TensorBoard%20%26%20WandB)-black?style=for-the-badge&logo=weightsandbiases&logoColor=yellow" />
@@ -33,7 +32,6 @@
   <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/API%20%2F%20UI%20(Streamlit)-lightblue?style=for-the-badge&logo=streamlit&logoColor=red" />
   <img src="https://img.shields.io/badge/AI%20Agents%20%26%20RAG%20Systems-7B68EE?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ---
@@ -41,7 +39,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,git,github,vscode,linux&perline=6" /><br>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,git,github,vscode,linux,C++&perline=6" /><br>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
