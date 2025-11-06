@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/Pretraining%20%26%20Finetuning-purple?style=for-the-badge&logo=huggingface&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/API%20%2F%20UI%20(Streamlit)-lightblue?style=for-the-badge&logo=streamlit&logoColor=red" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1F75FE?style=for-the-badge&logo=graph&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20Agents%20%26%20RAG%20Systems-7B68EE?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
