@@ -39,7 +39,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,git,github,vscode,linux,C++&perline=6" /><br>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,git,github,vscode,linux,cpp&perline=6" /><br>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
