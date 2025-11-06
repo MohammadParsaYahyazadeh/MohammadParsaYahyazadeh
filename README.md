@@ -49,6 +49,9 @@
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
+<img src="https://img.shields.io/badge/Time%20Series-Modeling-blue?style=for-the-badge&logo=clockify&logoColor=white" />
+<img src="https://img.shields.io/badge/Recommender%20Systems-Collaborative%20Filtering-orange?style=for-the-badge&logo=databricks&logoColor=white" />
+
 
 
 
