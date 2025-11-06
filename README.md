@@ -40,7 +40,7 @@
 
 <p align="center">
   <!-- Supported by skillicons -->
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,git,github,vscode,linux&perline=6" /><br>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,git,github,vscode,linux,c++&perline=6" /><br>
 
   <!-- Custom badges for missing ones -->
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
