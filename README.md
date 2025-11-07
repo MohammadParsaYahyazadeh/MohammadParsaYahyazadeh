@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1F75FE?style=for-the-badge&logo=graph&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20Agents%20%26%20RAG%20Systems-7B68EE?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
 ---
