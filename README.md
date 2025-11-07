@@ -52,6 +52,25 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadParsaYahyazadeh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180em" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadParsaYahyazadeh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em" />
+</p>
+
+<p align="center">
+  <!-- Fixed Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadParsaYahyazadeh&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" />
+</p>
+
+---
+
 ### 🧩 Featured Projects
 
 #### 🧠 [AI Image Classifier](https://github.com/MohammadParsaYahyazadeh/AI-Image-Classifier)
@@ -69,22 +88,6 @@
 #### 🧬 [Neural Network Playground](https://github.com/MohammadParsaYahyazadeh/NN-Playground)
 > Custom-built neural network implementations for learning  
 > ⚙️ **Tech:** NumPy, Matplotlib, Scikit-learn
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadParsaYahyazadeh&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadParsaYahyazadeh&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohammadParsaYahyazadeh&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
