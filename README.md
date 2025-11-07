@@ -51,6 +51,24 @@
 </p>
 
 ---
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/MohammadParsaYahyazadeh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohammadparsayahyazadeh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/MohammadParsaYahyazadeh">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://t.me/MP_Yahyazdeh" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ### 📊 GitHub Stats
 
@@ -65,9 +83,9 @@
 </p>
 
 <p align="center">
-  <!-- Fixed Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadParsaYahyazadeh&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=MohammadParsaYahyazadeh&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" />
 </p>
+
 
 ---
 
@@ -88,22 +106,6 @@
 #### 🧬 [Neural Network Playground](https://github.com/MohammadParsaYahyazadeh/NN-Playground)
 > Custom-built neural network implementations for learning  
 > ⚙️ **Tech:** NumPy, Matplotlib, Scikit-learn
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/MohammadParsaYahyazadeh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mohammadparsayahyazadeh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/MohammadParsaYahyazadeh">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 
