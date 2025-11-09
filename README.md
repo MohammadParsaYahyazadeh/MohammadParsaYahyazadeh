@@ -92,10 +92,11 @@
 </p>
 
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repositories
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MohammadParsaYahyazadeh&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=MohammadParsaYahyazadeh&limit=5&theme=radical&no-frame=true&no-bg=true&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 </p>
+
 
 
 
