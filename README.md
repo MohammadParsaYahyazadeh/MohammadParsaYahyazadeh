@@ -91,11 +91,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MohammadParsaYahyazadeh&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
+[![MohammadParsaYahyazadeh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammadParsaYahyazadeh&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 🔝 Top Contributed Repositories
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MohammadParsaYahyazadeh&limit=5&theme=radical&no-frame=true&no-bg=true&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-</p>
 
 
 
