@@ -86,6 +86,17 @@
   <img src="https://streak-stats.demolab.com?user=MohammadParsaYahyazadeh&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" />
 </p>
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohammadParsaYahyazadeh&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=MohammadParsaYahyazadeh&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</p>
+
+
 
 ---
 
