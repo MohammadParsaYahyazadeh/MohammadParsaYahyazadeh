@@ -86,6 +86,33 @@
   <img src="https://streak-stats.demolab.com?user=MohammadParsaYahyazadeh&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" />
 </p>
 
+  "skills": [
+    "anaconda",
+    "cplusplus",
+    "fastapi",
+    "git",
+    "gradio",
+    "huggingface",
+    "jupyter",
+    "kafka",
+    "keras",
+    "langchain",
+    "linux",
+    "matplotlib",
+    "mlflow",
+    "numpy",
+    "ollama",
+    "opencv",
+    "pandas",
+    "python",
+    "pytorch",
+    "scikit_learn",
+    "seaborn",
+    "streamlit",
+    "tensorflow"
+  ]
+}
+
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MohammadParsaYahyazadeh&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
