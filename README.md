@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Parsa Yahyazadeh</h1>
-<h3 align="center">🚀 AI & Machine Learning Developer | Building Intelligent Systems with Code</h3>
+<h3 align="center">🚀 AI Programming & Development | Academic Mentor in Artificial Intelligence</h3>
 
 ---
 
