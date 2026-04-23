@@ -72,8 +72,6 @@
 
 #### 🧰 Dev Tools & Environment
 
-  #### 🧰 Dev Tools & Environment
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,cpp&perline=6" />
 
@@ -84,7 +82,7 @@
   <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="50" />
 
   <!-- MySQL (official logo) -->
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="120" />
+  <img src="https://www.mysql.com/common/logos/logo-mysql-150x90.png" width="80" />
 </p>
 
 
