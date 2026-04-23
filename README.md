@@ -72,11 +72,20 @@
 
 #### 🧰 Dev Tools & Environment
 
+  #### 🧰 Dev Tools & Environment
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,cpp&perline=6" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+
+  <!-- Google Colab (official icon) -->
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="50" />
+
+  <!-- Kaggle (official icon) -->
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="50" />
+
+  <!-- MySQL (official logo) -->
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="120" />
 </p>
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="120">
 
 
 ---
