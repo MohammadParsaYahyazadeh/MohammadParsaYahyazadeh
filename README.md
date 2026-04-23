@@ -81,8 +81,8 @@
   <!-- Kaggle (official icon) -->
   <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="50" />
 
-  <!-- MySQL (official logo) -->
-  <img src="https://www.mysql.com/common/logos/logo-mysql-150x90.png" width="80" />
+  <!-- MySQL (official logo, smaller) -->
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="80" />
 </p>
 
 
