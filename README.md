@@ -15,26 +15,63 @@
 ### 🧭 Domains I Work In
 
 <p align="center">
+
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Computer%20Vision-0A66C2?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP%20(LLMs%20%26%20Transformers)-green?style=for-the-badge&logo=transformer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Recommender%20Systems-orange?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-blue?style=for-the-badge&logo=clockify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Image%20Classification-yellow?style=for-the-badge&logo=googlephotos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Image%20Segmentation-darkred?style=for-the-badge&logo=opencv&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/NLP%20(LLMs%20%26%20Transformers)-green?style=for-the-badge&logo=huggingface&logoColor=white" />
+
   <img src="https://img.shields.io/badge/LLMs-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow%20%26%20Keras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps%20(TensorBoard%20%26%20WandB)-black?style=for-the-badge&logo=weightsandbiases&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-darkgreen?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pretraining%20%26%20Finetuning-purple?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20%2F%20UI%20(Streamlit)-lightblue?style=for-the-badge&logo=streamlit&logoColor=red" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1F75FE?style=for-the-badge&logo=graph&logoColor=white" />
+
   <img src="https://img.shields.io/badge/AI%20Agents%20%26%20RAG%20Systems-7B68EE?style=for-the-badge&logo=openai&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/LangGraph-1F75FE?style=for-the-badge&logo=graph&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Flowise%20AI-4B32C3?style=for-the-badge&logo=openai&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Web%20Scraping-2E8B57?style=for-the-badge&logo=scrapy&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/BeautifulSoup-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/TensorFlow%20%26%20Keras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/MLOps%20(TensorBoard%20%26%20WandB)-black?style=for-the-badge&logo=weightsandbiases&logoColor=yellow" />
+
+  <img src="https://img.shields.io/badge/Pretraining%20%26%20Finetuning-purple?style=for-the-badge&logo=huggingface&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Hugging%20Face-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/Recommender%20Systems-orange?style=for-the-badge&logo=databricks&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-blue?style=for-the-badge&logo=clockify&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Image%20Classification-yellow?style=for-the-badge&logo=googlephotos&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Image%20Segmentation-darkred?style=for-the-badge&logo=opencv&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-darkgreen?style=for-the-badge&logo=unity&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/API%20%2F%20UI%20(Streamlit)-lightblue?style=for-the-badge&logo=streamlit&logoColor=red" />
+
 </p>
 
 ---
